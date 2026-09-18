@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Jagadeesan M Header" />
+  <img src="staticfiles/images/JD.jpeg" width="10%" alt="Jagadeesan M Header" />
 </p>
 
 <p align="center">
